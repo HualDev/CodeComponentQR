@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HualDev](https://github.com/HualDev/HuddleCurvedLandingPage)
-- Live Site URL: [HuddlePage](https://hualdev.github.io/HuddleCurvedLandingPage/)
+- Solution URL: [HualDev](https://github.com/HualDev/CodeComponentQR)
+- Live Site URL: [QRCodeComponent](https://hualdev.github.io/CodeComponentQR/)
 
 ## My process
 
